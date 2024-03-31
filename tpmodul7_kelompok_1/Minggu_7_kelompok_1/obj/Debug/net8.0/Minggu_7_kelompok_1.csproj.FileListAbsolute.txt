@@ -13,3 +13,11 @@ C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelom
 C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.pdb
 C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.genruntimeconfig.cache
 C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\ref\Minggu_7_kelompok_1.dll
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.AssemblyInfoInputs.cache
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.AssemblyInfo.cs
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.csproj.CoreCompileInputs.cache
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.sourcelink.json
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.dll
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\refint\Minggu_7_kelompok_1.dll
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.pdb

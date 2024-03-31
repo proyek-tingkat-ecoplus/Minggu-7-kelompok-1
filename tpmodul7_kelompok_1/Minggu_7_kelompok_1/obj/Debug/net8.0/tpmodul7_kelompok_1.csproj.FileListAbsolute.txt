@@ -1,0 +1,5 @@
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.AssemblyInfoInputs.cache
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.AssemblyInfo.cs
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.csproj.CoreCompileInputs.cache
+D:\KPL\tp_mod7\Minggu-7-kelompok-1\tpmodul7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.sourcelink.json
