@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="DataMahasiswa_1302220065.cs" />
+    <Compile Remove="DataMahasiswa_1302220141.cs" />
+    <Compile Remove="DataMahasiswa_1302223055.cs" />
+    <Compile Remove="DataMahasiswa_1302223061.cs" />
+  </ItemGroup>
+
 </Project>

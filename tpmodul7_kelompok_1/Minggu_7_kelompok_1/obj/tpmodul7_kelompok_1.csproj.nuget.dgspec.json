@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KPL\\tp_mod7\\Minggu-7-kelompok-1\\tpmodul7_kelompok_1\\Minggu_7_kelompok_1\\Minggu_7_kelompok_1.csproj": {}
+    "D:\\KPL\\tp_mod7\\Minggu-7-kelompok-1\\tpmodul7_kelompok_1\\Minggu_7_kelompok_1\\tpmodul7_kelompok_1.csproj": {}
   },
   "projects": {
-    "D:\\KPL\\tp_mod7\\Minggu-7-kelompok-1\\tpmodul7_kelompok_1\\Minggu_7_kelompok_1\\Minggu_7_kelompok_1.csproj": {
+    "D:\\KPL\\tp_mod7\\Minggu-7-kelompok-1\\tpmodul7_kelompok_1\\Minggu_7_kelompok_1\\tpmodul7_kelompok_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KPL\\tp_mod7\\Minggu-7-kelompok-1\\tpmodul7_kelompok_1\\Minggu_7_kelompok_1\\Minggu_7_kelompok_1.csproj",
-        "projectName": "Minggu_7_kelompok_1",
-        "projectPath": "D:\\KPL\\tp_mod7\\Minggu-7-kelompok-1\\tpmodul7_kelompok_1\\Minggu_7_kelompok_1\\Minggu_7_kelompok_1.csproj",
+        "projectUniqueName": "D:\\KPL\\tp_mod7\\Minggu-7-kelompok-1\\tpmodul7_kelompok_1\\Minggu_7_kelompok_1\\tpmodul7_kelompok_1.csproj",
+        "projectName": "tpmodul7_kelompok_1",
+        "projectPath": "D:\\KPL\\tp_mod7\\Minggu-7-kelompok-1\\tpmodul7_kelompok_1\\Minggu_7_kelompok_1\\tpmodul7_kelompok_1.csproj",
         "packagesPath": "C:\\Users\\Nasya Kirana M\\.nuget\\packages\\",
         "outputPath": "D:\\KPL\\tp_mod7\\Minggu-7-kelompok-1\\tpmodul7_kelompok_1\\Minggu_7_kelompok_1\\obj\\",
         "projectStyle": "PackageReference",
